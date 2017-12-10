@@ -14,11 +14,11 @@
 
 * Static config option
 
-![](/images/1.PNG)
+![](images/1.PNG?raw=true)
 
 * Rotating config option for bottom_bar or top_bar. You could also try the thirds.
 
-![](/images/2.PNG) 
+![](images/2.PNG?raw=true) 
 
 Color any way you like. Make it your own.
 
